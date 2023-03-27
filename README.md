@@ -19,9 +19,9 @@
 
 王洪辉
 
-github https://github.com/wanghonghui2023
+github：https://github.com/wanghonghui2023
 
-email honghui.wang@ucas.com.cn
+email：honghui.wang@ucas.com.cn
 
 
 【难度】
