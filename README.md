@@ -16,9 +16,13 @@
 请遵循“全国大学生操作系统比赛”的章程和技术方案要求
 
 【项目导师】
+
 王洪辉
+
 github https://github.com/wanghonghui2023
+
 email honghui.wang@ucas.com.cn
+
 
 【难度】
 
